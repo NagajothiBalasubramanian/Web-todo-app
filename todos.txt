@@ -1,6 +1,7 @@
 Buy Grocery
 New order
 Paint the house
-Clean the room
-Empty the Bin
-Dress upMeet the mentor
+Arrange cloths
+Find the house
+Clean the house
+Clean the house neatly
