@@ -1,7 +1,4 @@
 Buy Grocery
-New order
 Paint the house
-Arrange cloths
-Find the house
-Clean the house
-Clean the house neatly
+Arrange RoomClean the house neatly
+Find the mouses
