@@ -3,6 +3,7 @@ import functions
 import time
 
 sg.theme("Black")
+
 clock = sg.Text("",key='clock')
 label1=sg.Text("Type a Todo")
 input_box=sg.InputText(tooltip="Enter a todo",key="todo")
